@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">CueV2</string>
+
+    <string name="user_preference_file_key">userPrefFileKey</string>
+    <string name="user_name_key">userNameKey</string>
+    <string name="user_isPremium_key">userIsPremiumKey</string>
+    <string name="user_email_key">userEmailKey</string>
+    <string name="user_habit_key">userHabitKey</string>
+    <string name="action_id_key">actionIdKey</string>
+
+
+</resources>

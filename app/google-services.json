@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "803733895946",
+    "firebase_url": "https://cuev2-ddd8a.firebaseio.com",
+    "project_id": "cuev2-ddd8a",
+    "storage_bucket": "cuev2-ddd8a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:803733895946:android:da20dfccc33837ee",
+        "android_client_info": {
+          "package_name": "com.example.loganodi.cuev2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "803733895946-7j6a1qr3s3rh51b2sij7p6a4igjuqnu3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.loganodi.cuev2",
+            "certificate_hash": "85330a77316ea1e39b5d5ac2e45738f53f889559"
+          }
+        },
+        {
+          "client_id": "803733895946-ivgc0201k4hi53du0m1bf3mjl3meqqqg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDiXvrlnl-IWSrnYETGBUuhu3uFFZQVcCw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "803733895946-ivgc0201k4hi53du0m1bf3mjl3meqqqg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
